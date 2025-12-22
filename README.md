@@ -1,2 +1,1 @@
-# AI-Prototype
-# SnowBoard AI Tracker (How much snow, wind, cams, etc.)
+# The problem with many snowboarding/skiing apps only focus on snowfall forecasts rather than the ride quality itself, which makes them unreliable for East Coast conditions. What may often matter more than raw snowfall is freeze-thaw cycls, rain, wind, and lift availability. This app builds a snowboard/skiing-first conditions platform that collects weather and resort data into a simple, explainable "Ride Score." The goal of this project is to answer the question: "Is it worth going too the mountain today?"
